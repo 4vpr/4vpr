@@ -6,7 +6,7 @@ My main focus is on game programming, optimization, and experimenting with backe
 ---
 
 ## Projects
-### Dansu (Rhythm Game)
+### <img src="https://img.itch.zone/aW1nLzIxMTk4NzU4LnBuZw==/original/VEnZ1V.png" width="400">  
 - Implemented beatmap parsing, timing/judgment system, and difficulty calculation algorithm  
 - Built a multithreaded beatmap loading system  
 - Developing an integrated in-game beatmap editor  
@@ -14,7 +14,7 @@ My main focus is on game programming, optimization, and experimenting with backe
 - Applied performance optimizations (FPS limiting, V-Sync control, caching)  
 
 
-- Youtue  
+Gameplay video  
   [![Video](https://img.youtube.com/vi/xgMJnZfRtF8/0.jpg)](https://youtu.be/xgMJnZfRtF8)
 
 
