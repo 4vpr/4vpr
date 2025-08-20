@@ -12,6 +12,9 @@ My main focus is on game programming, optimization, and experimenting with backe
 - Developing an integrated in-game beatmap editor
 - Planning a beatmap sharing server using Flask
 - Applied performance optimizations (FPS limiting, V-Sync control, caching)
+  [![Video](https://img.youtube.com/vi/xgMJnZfRtF8/0.jpg)](https://youtu.be/xgMJnZfRtF8)
+- youtue
+
 
 ---
 
@@ -20,4 +23,3 @@ My main focus is on game programming, optimization, and experimenting with backe
 - Backend for beatmap sharing and ranking (Flask-based)  
 - Efficient UI/UX and multithreaded optimizations
 
-[![Video](https://img.youtube.com/vi/xgMJnZfRtF8/0.jpg)](https://youtu.be/xgMJnZfRtF8)
