@@ -16,7 +16,7 @@ My main focus is on game programming, optimization, and experimenting with backe
 ---
 
 ## Current Focus
-- Advanced difficulty rating system (note density, IPS, regression-based tuning)  
+- Advanced difficulty rating system (note density, Input per second, regression-based tuning)  
 - Backend for beatmap sharing and ranking (Flask-based)  
 - Efficient UI/UX and multithreaded optimizations
 
