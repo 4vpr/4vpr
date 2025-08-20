@@ -7,10 +7,10 @@ My main focus is on game programming, optimization, and experimenting with backe
 
 ## Projects
 ### <img src="https://img.itch.zone/aW1nLzIxMTk4NzU4LnBuZw==/original/VEnZ1V.png" width="400">  
-- Implemented beatmap parsing, timing/judgment system, and difficulty calculation algorithm  
-- Built a multithreaded beatmap loading system  
-- Developing an integrated in-game beatmap editor  
-- Planning a beatmap sharing server using Flask  
+- Implemented chart parsing, timing/judgment system, and difficulty calculation algorithm  
+- Built a multithreaded chart loading system  
+- Developing an integrated in-game chart editor  
+- Planning a chart sharing server using Flask  
 - Applied performance optimizations (FPS limiting, V-Sync control, caching)  
 
 
@@ -23,6 +23,6 @@ Gameplay video
 
 ## Current Focus
 - Advanced difficulty rating system (note density, Input per second, regression-based tuning)  
-- Backend for beatmap sharing and ranking (Flask-based)  
+- Backend for chart sharing and ranking (Flask-based)  
 - Efficient UI/UX and multithreaded optimizations
 
