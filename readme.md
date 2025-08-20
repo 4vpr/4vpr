@@ -7,15 +7,15 @@ My main focus is on game programming, optimization, and experimenting with backe
 
 ## Projects
 ### Dansu (Rhythm Game)
-- Implemented beatmap parsing, timing/judgment system, and difficulty calculation algorithm
-- Built a multithreaded beatmap loading system
-- Developing an integrated in-game beatmap editor
-- Planning a beatmap sharing server using Flask
-- Applied performance optimizations (FPS limiting, V-Sync control, caching)
+- Implemented beatmap parsing, timing/judgment system, and difficulty calculation algorithm  
+- Built a multithreaded beatmap loading system  
+- Developing an integrated in-game beatmap editor  
+- Planning a beatmap sharing server using Flask  
+- Applied performance optimizations (FPS limiting, V-Sync control, caching)  
 
 
-- youtue  
-- [![Video](https://img.youtube.com/vi/xgMJnZfRtF8/0.jpg)](https://youtu.be/xgMJnZfRtF8)
+- Youtue  
+  [![Video](https://img.youtube.com/vi/xgMJnZfRtF8/0.jpg)](https://youtu.be/xgMJnZfRtF8)
 
 
 
