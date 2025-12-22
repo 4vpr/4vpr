@@ -3,4 +3,4 @@
 
 # My projects
 
-[Play](https://h4yase.itch.io/dansu)
+[Dansu (masterpiece)](https://h4yase.itch.io/dansu)
