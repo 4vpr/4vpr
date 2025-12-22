@@ -3,5 +3,4 @@
 
 # My projects
 
-![img2](https://raw.githubusercontent.com/4vpr/Dansu/refs/heads/master/resource/font/dansu.png?token=GHSAT0AAAAAADRXHBU4II2AM2JEE336ZJOE2KI2TBA)  
 [Play](https://h4yase.itch.io/dansu)
