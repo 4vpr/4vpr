@@ -4,5 +4,5 @@
 # My projects
 
 ## Dansu
-![img2](https://img.itch.zone/aW1hZ2UvMzU0NzgxMS8yMTE5ODgwMy5wbmc=/original/Qnbxn3.png)
+![img2](https://raw.githubusercontent.com/4vpr/Dansu/refs/heads/master/resource/font/dansu.png?token=GHSAT0AAAAAADRXHBU4II2AM2JEE336ZJOE2KI2TBA)  
 [Play this shit](https://h4yase.itch.io/dansu)
