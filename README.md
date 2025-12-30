@@ -9,3 +9,5 @@
 [Big Cat](https://h4yase.itch.io/bigcat)
 
 ### [DailyVocaloid](https://www.youtube.com/watch?v=lw7pcm1W5tw) - 2025-12-30
+
+### [DailyVocaloid](https://www.youtube.com/watch?v=lw7pcm1W5tw) - 2025-12-30
