@@ -56,4 +56,4 @@ if ($LASTEXITCODE -ne 0) {
   exit $LASTEXITCODE
 }
 
-& git push
+& git push origin main
