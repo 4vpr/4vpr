@@ -7,3 +7,5 @@
 [Dansu (masterpiece)](https://h4yase.itch.io/dansu)  
 [IV Key](https://www.youtube.com/watch?v=YJCM6CXq954)  
 [Big Cat](https://h4yase.itch.io/bigcat)
+
+### [DailyVocaloid](https://www.youtube.com/watch?v=lw7pcm1W5tw) - 2025-12-30
