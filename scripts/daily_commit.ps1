@@ -29,8 +29,9 @@ $index = ((Get-Date).DayOfYear - 1) % $links.Count
 $link = $links[$index].Trim()
 
 $readme = Get-Content $readmePath -Raw
-$pattern = '\[daily-vocalroid\]\([^\)]*\)'
-$replacement = "[daily-vocalroid]($link)"
+$dateStamp = Get-Date -Format 'yyyy-MM-dd'
+$pattern = '\[오늘의 보컬로이드\]\([^\)]*\)(?:\s+-\s+\d{4}-\d{2}-\d{2})?'
+$replacement = "[오늘의 보컬로이드]($link) - $dateStamp"
 
 if ($readme -match $pattern) {
   $updated = [regex]::Replace($readme, $pattern, $replacement, 1)
@@ -48,7 +49,7 @@ if ($LASTEXITCODE -eq 0) {
   exit 0
 }
 
-$commitMsg = "daily vocaloid: $(Get-Date -Format 'yyyy-MM-dd')"
+$commitMsg = "daily vocaloid: $dateStamp"
 
 & git add README.md
 & git commit -m $commitMsg
