@@ -4,5 +4,5 @@
 # My projects
 
 [Dansu (masterpiece)](https://h4yase.itch.io/dansu)  
-[IV KeyPro](https://www.youtube.com/watch?v=YJCM6CXq954)  
+[IV Key](https://www.youtube.com/watch?v=YJCM6CXq954)  
 [Big Cat](https://h4yase.itch.io/bigcat)
