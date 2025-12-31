@@ -30,8 +30,8 @@ $link = $links[$index].Trim()
 
 $readme = Get-Content $readmePath -Raw
 $dateStamp = Get-Date -Format 'yyyy-MM-dd'
-$pattern = '\[오늘의 보컬로이드\]\([^\)]*\)(?:\s+-\s+\d{4}-\d{2}-\d{2})?'
-$replacement = "[오늘의 보컬로이드]($link) - $dateStamp"
+$pattern = '\[DailyVocaloid\]\([^\)]*\)(?:\s+-\s+\d{4}-\d{2}-\d{2})?'
+$replacement = "[DailyVocaloid]($link) - $dateStamp"
 
 if ($readme -match $pattern) {
   $updated = [regex]::Replace($readme, $pattern, $replacement, 1)
