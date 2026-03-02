@@ -1,6 +1,6 @@
 ﻿![img](https://i.pinimg.com/736x/c4/c5/65/c4c56522faaa704172773a7e89b6d8c1.jpg)
 
-[DailyVocaloid](https://www.youtube.com/watch?v=8Cm-7oCq9HA) - 2026-03-02
+[DailyVocaloid](https://www.youtube.com/watch?v=D5s8U3IDfwI) - 2026-03-03
 
 # My projects
 
